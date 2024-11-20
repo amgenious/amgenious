@@ -1,10 +1,8 @@
 # Hi there, I'm Henry Tweneboah! 👋
 
-![Banner Image](https://drive.google.com/file/d/1gShdcQRn9WlE7Ieh34Q7DybTUNmuEPqj/view?usp=sharing)
-
 ## About Me 🚀
 
-I'm a passionate *Software Engineer* with experience in *Javascript, Dart, Python, Typescript*. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
+I'm a passionate *Frontend Software Engineer* with experience in *Javascript, Dart, Python, Typescript*. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
 
 - 🌱 Currently learning: *c# .net*
 - 🔭 Working on: *Clank*
