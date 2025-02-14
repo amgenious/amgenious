@@ -4,8 +4,6 @@
 
 I'm a passionate *Frontend Software Engineer* with experience in *Javascript, Dart, Python, Typescript*. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
 
-- 🌱 Currently learning: *c# .net*
-- 🔭 Working on: *Clank*
 - 🌍 Languages: *Javascript, Dart, Python, Typescript, English *
 - 📫 How to reach me: *henrytweneboah956@gmail.com *
 
