@@ -2,9 +2,9 @@
 
 ## About Me 🚀
 
-I'm a passionate *Frontend Software Engineer* with experience in *Javascript, Dart, Python, Typescript*. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
+I'm a passionate *Frontend Software Engineer* with experience in *Javascript, Python, Typescript*. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
 
-- 🌍 Languages: *Javascript, Dart, Python, Typescript, English *
+- 🌍 Languages: *Javascript, Python, Typescript, English *
 - 📫 How to reach me: *henrytweneboah956@gmail.com *
 
 ## My Skills 🧠
